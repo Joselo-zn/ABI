@@ -1,4 +1,5 @@
 # ABI – Agent-Based Infrastructure
+Created and maintained by José Luis Martínez
 
 **ABI** is a paradigm shift in how we design, deploy, and interact with intelligent systems.
 
@@ -36,3 +37,11 @@ ABI is currently a working concept being developed into a prototype.
 You're welcome to explore, contribute, or start your own implementation.
 
 ---
+
+## About the Author
+
+**José Luis Martínez** is a systems engineer, AI infrastructure strategist, and creator of the ABI (Agent-Based Infrastructure) paradigm.  
+This project is part of an ongoing research effort to democratize intelligent systems and create shared cognition frameworks for open innovation.
+
+Connect on [LinkedIn](https://www.linkedin.com/in/jose-luis-martinez-71195425/) | [Blog](https://designednotmagic.hashnode.dev)
+
