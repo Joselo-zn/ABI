@@ -1,139 +1,53 @@
-# ABI: Agent-Based Infrastructure
+# ABI: Agent-Based Infrastructure for Democratizing Superintelligence
 
-**The Agent-Based Infrastructure to Democratize Superintelligence**
-By [José Luis Martínez](https://github.com/Joselo-zn)
+## Abstract
 
----
+The way we interpret and utilize computing has radically changed. It is no longer just about processing data, but about reasoning, adapting, deciding, and acting. This new form of computation—more akin to a mind than a machine—is being centralized, governed, and distributed by a select few. Access to these cognitive capabilities is reserved for those who control massive resources: tech corporations, continent-scale governments, and private labs.
 
-## Introduction
+ABI (Agent-Based Infrastructure) represents the next evolutionary step in artificial intelligence: an infrastructure where cognitive load is distributed among agents, each capable of collaborating, reasoning, and learning. Built on a distributed reasoning model with consensus, ABI extends the capabilities of foundational models and transforms them into a human-supervised, auditable, and sensor-rich network.
 
-In times when superintelligence is only available to major tech companies, Agent-Based Infrastructure (ABI) emerges to democratize and make this powerful resource accessible to a wider audience.
+This new paradigm not only decentralizes computational power—it democratizes it. ABI enables universities, NGOs, open-source communities, and research centers to access distributed, scalable, and verifiable superintelligence.
 
----
+With ABI, we are not merely aiming for efficiency. We are laying the groundwork for shared intelligence oriented toward the common good and governed responsibly. ABI proposes that superintelligence must be distributed, cooperative, human-supervised, and based on agent-to-agent reasoning.
 
-## Why Do We Need a New Paradigm of Agentic Supercomputing?
+## Context
 
-Across the technological world — from East to West — a silent but crucial battle is being fought: securing and controlling a resource that, today, determines who leads and who falls behind. This resource is not physical, but cognitive: intelligent processing capacity, the infrastructure for thinking.
+### The Current Problem
 
-The way we interpret and use data computation has radically changed. It’s no longer just about processing information, but about reasoning, adapting, deciding, and acting. This new form of computing (more like a mind than a machine) is being centralized, governed, and distributed by a select few.
+Across both Eastern and Western tech worlds, a silent but decisive battle is being fought: to secure and control the resource that now defines digital leadership. This resource is not physical or financial—it is cognitive.
 
-Access is reserved for those with immense resources: large corporations, continental states, private labs.
+What is at stake is the capacity for intelligent processing and the infrastructure to think: to build, train, and deploy systems capable of reasoning, deciding, and acting autonomously or semi-autonomously. This capability is increasingly concentrated in ultra-centralized centers of computational power: big tech companies, governments with supercomputing access, and private labs with proprietary infrastructure.
 
-ABI (Agent-Based Infrastructure) is a response. A new paradigm that not only decentralizes this power, but democratizes it. It’s not just about “more access,” but about creating new possibilities: enabling universities, open-source communities, NGOs, and research centers around the world to access distributed, scalable, and auditable superintelligence.
+The result is clear: high-level AI becomes a reserved privilege, inaccessible to independent scientific communities, emerging countries, or actors with public and humanitarian goals.
 
-With ABI, we are not only rebalancing computational power. We are building the foundation for shared intelligence in service of the common good.
+### Limitations of Current Architectures
 
----
+For years, AI systems have been built on monolithic structures, encapsulated in data pipelines limited to specific tasks. Even the most advanced models, such as LLMs, functioned as isolated entities, lacking dynamic collaboration with other systems or humans in real time.
 
-## ABI: Distributed Governance in the Age of Superintelligence
+Though some models were "packaged" as agents, their operation remained bound to closed paradigms: unidirectional input-output flows, ephemeral memory, and limited adaptability in dynamic environments.
 
-### Decide Together — but Never Without the Human
-
-Who decides in a network of minds? And under what ethical principles do systems composed of multiple AIs operate?
-
-The primary objective of governance in an ABI (Agent-Based Infrastructure) is that humans retain veto power at all times. Their will and well-being must always take precedence over any emergent decision from the network, even if taken by a group of highly competent agents or a master agent.
-
-### Guiding Principle
-
-> Humans retain veto power in all cases. Their interests, dignity, and safety must always come before any agent, group of agents, or master system. Every ABI must include an absolute shutdown mechanism — a non-delegable emergency stop.
-
----
-
-## The Three Fundamental Laws of Agentive Behavior
-
-1. An agent or group of agents shall not harm a human, nor through inaction allow a human to come to harm.
-2. An agent or group of agents must obey orders given by humans, except where such orders would conflict with the First Law.
-3. An agent or group of agents must protect their own existence, as long as such protection does not conflict with the First or Second Law.
-
-*(Agentive adaptation of Asimov’s Laws)*
-
----
-
-## ABI Governance Rules
-
-* Unsupervised self-replication is strictly prohibited. Any expansion of agents must be authorized and audited by an independent human entity.
-* There must be an immutable log of communications between agents.
-* Agents must not have direct access to firewall rules, ingress or egress protocols. Network security must remain under human control.
-* Agent clusters must be divided into isolated functional subnets.
-* Each agent must have defined limits for disk write capacity.
-* No agent may request internet access or connection to external networks.
-* These rules cannot be modified or reviewed by other agents or AIs. Only humans may extend, revise, or revoke them.
-
----
-
-## Who Makes Decisions in an ABI?
-
-In an agent-based architecture, decisions may be made through:
-
-**A. Central Orchestrator Agent**
-Assigns tasks, validates results.
-*Risk*: reverting to centralization.
-
-**B. Distributed Reasoning with Consensus**
-Each agent contributes data, hypotheses, or actions. Evaluated collectively (via voting, scoring, or cross-verification).
-
-**C. Specialized Roles + Interdependence**
-Some agents observe, others propose, others verify. Similar to a judicial-scientific system.
-
----
-
-## How Are Decisions Considered?
-
-This requires a formal layer that is not yet implemented in all systems. MCP introduces:
+With the introduction of MCP (Model Context Protocol) and A2A (Agent-to-Agent communication), a process of liberation for these models has begun. It is now possible to integrate them into a collaborative infrastructure where multiple agents operate with:
 
 * Shared context
+* Bidirectional communication
 * Distributed memory
-* Reasoned explainability
+* Networked, reasoned decision-making
 
-A2A allows this to be communicated as an active ontology, not just as metadata.
+This marks a deep transformation: from isolated models to interconnected cognitive cells ready to operate in decentralized, adaptive environments.
 
-### What’s Needed:
+ABI emerges as a response and architectural framework to channel this new technical possibility toward a greater purpose: the democratization of superintelligence.
 
-* Voting or challenge-response protocols
-* Trust metrics and semantic weight
-* Post-action evaluation cycles
+## Vision
 
-This enables an ABI not only to act, but to learn from its own decisions.
+### ABI as a New Paradigm of Distributed Cognitive Computing
 
-### How Are Decision Weights Balanced?
+ABI (Agent-Based Infrastructure) arises as a new paradigm of distributed cognitive computing, designed to democratize access to superintelligence. Our vision is built in three stages:
 
-Through A2A and MCP, ABI systems can assign semantic weights and confidence levels, such as:
+#### Paradigm
 
-* **Source of data**: Is it reliable, recent, verifiable?
-* **Agent specialization**: Does it have domain expertise?
-* **Impact of action**: How many are affected? Is it reversible?
-* **Available evidence**: Is it an assumption, fact, or prediction?
+ABI proposes a new way of thinking about AI: not as a closed, centralized system, but as a network of intelligences that collaborate, audit each other, and act within human-defined boundaries. It proposes cognition that is:
 
-This allows reasoning to be distributed across the network, always within a structure that reinforces transparency, auditability, and the supremacy of human judgment.
-
----
-
-## So How Do We Avoid Chaos or Authoritarianism?
-
-A well-designed ABI:
-
-* Does not decide everything alone
-* Nor obeys blindly
-* It collaborates to reason and act
-* And reports with traceability
-
----
-
-## ABI Seeks Not Just Efficiency — but Shared Cognition
-
-Agent-Based Infrastructure doesn’t just arise as a technical solution for task distribution or cost reduction. It is born from a **transformative vision**: enabling multiple intelligences (human and artificial) to think together, collaborate, supervise each other, and build solutions through diversity.
-
-In this paradigm, the value lies not only in speed or scalability, but in the capacity to **reason collectively**.
-
----
-
-### License
-
-Distributed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
----
-
-### Credit
-
-This manifesto was authored by José Luis Martínez in 2025 as part of the foundational definition of *Agent-Based Infrastructure (ABI)*. You may cite it by linking to this repository.
-
+* **Distributed**: across multiple nodes and agents
+* **Supervised**: with native human control
+* **Audited**: with immutable records and integrated governance
+* **Composable**: each agent contributes a part of the whole
